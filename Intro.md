@@ -15,23 +15,23 @@ Liste non exhaustive du matériel utilisé lors de la création d’un premier p
 
 - Arduino
 
-        L’arduino sera le cerveau de notre tank. Tous comme un automates il est composé de différente entrées et sorties. Pour ce projet nous utiliserons l’arduino UNO, c’est surement le modèle d’arduino le plus répandu
+L’arduino sera le cerveau de notre tank. Tous comme un automates il est composé de différente entrées et sorties. Pour ce projet nous utiliserons l’arduino UNO, c’est surement le modèle d’arduino le plus répandu
 
 - Shield USB
 
-        Dans le monde d’arduino, un « shield » est un additif qui vient se fixer dessus pour lui rajouter des fonctionnalité. Ici, la fonctionnalité  qu’il nous manque c’est le Bluetooth pour communiquer avec la manette de PS3. Un shield USB, permet donc à l’arduino de venir brancher un périphérique USB (perspicace).
+Dans le monde d’arduino, un « shield » est un additif qui vient se fixer dessus pour lui rajouter des fonctionnalité. Ici, la fonctionnalité  qu’il nous manque c’est le Bluetooth pour communiquer avec la manette de PS3. Un shield USB, permet donc à l’arduino de venir brancher un périphérique USB (perspicace).
 
 - Dongle Bluetooth
 
-        Pour la communication Bluetooth nous allons utiliser un dongle Bluetooth. C’est un petit module USB.
+ Pour la communication Bluetooth nous allons utiliser un dongle Bluetooth. C’est un petit module USB.
 
 
 - Manette de PS3
 
-        Pour le pilotage du tank, j’ai choisi de prendre une manette de play 3. Nous pouvons totalement le faire avec d’autre moyen (télécommande RC, autre manette Bluetooth, clavier, etc.) libre à vous de changer si l’envie vous prend.
+Pour le pilotage du tank, j’ai choisi de prendre une manette de play 3. Nous pouvons totalement le faire avec d’autre moyen (télécommande RC, autre manette Bluetooth, clavier, etc.) libre à vous de changer si l’envie vous prend.
 - Châssis
 
-        Le châssis peut être fabriqué ou acheter. J’ai choisis d’en acheter un et suivant la suite de ce projet en fabriquer un.
+Le châssis peut être fabriqué ou acheter. J’ai choisis d’en acheter un et suivant la suite de ce projet en fabriquer un.
 - Pont en H
 
-        Un pont en H est un composant électronique permettant de contrôler (vitesse, sens, frein) des moteurs. J’ai pris une carte déjà toute faite sur banggood basé sur un IC L298 pouvant piloter deux moteur DC ou un moteur pas à pas. Le tout jusqu’à 2 [A]. Emetteur/récepteur infrarouge (obligatoire).Les « tirs » seront simulé par un laser IR, comme sur une télécommande de TV. La communication est un signal de 38[kHz] qui nous permet d’éviter les interférences des autres lumières ambiantes.
+Un pont en H est un composant électronique permettant de contrôler (vitesse, sens, frein) des moteurs. J’ai pris une carte déjà toute faite sur banggood basé sur un IC L298 pouvant piloter deux moteur DC ou un moteur pas à pas. Le tout jusqu’à 2 [A]. Emetteur/récepteur infrarouge (obligatoire).Les « tirs » seront simulé par un laser IR, comme sur une télécommande de TV. La communication est un signal de 38[kHz] qui nous permet d’éviter les interférences des autres lumières ambiantes.
