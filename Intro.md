@@ -15,7 +15,7 @@ Liste non exhaustive du matériel utilisé lors de la création d’un premier p
 
 - Arduino
 
-   * L’arduino sera le cerveau de notre tank. Tous comme un automates il est composé de différente entrées et sorties. Pour ce projet nous utiliserons l’arduino UNO, c’est surement le modèle d’arduino le plus répandu
+   * L’arduino sera le cerveau de notre tank. Tous comme un automates il est composé de différente entrées et sorties. Pour ce projet nous utiliserons l’arduino Mega (il est aussi possible de le faire avec d'autre, telle que l'arduino uno, mais le mega offre beaucoup d'I/O).
 
 - Shield USB
 
