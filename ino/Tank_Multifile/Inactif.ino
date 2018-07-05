@@ -1,0 +1,13 @@
+///////////////////////////////////////////////////////////////////////////
+////////////////////////////  Inactif  ///////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+int inactif(void) {
+  MsGauche = 0;
+  MsDroite = 0;
+  digitalWrite(controlPin11, LOW);
+  digitalWrite(controlPin21, LOW);
+  digitalWrite(controlPin12, LOW);
+  digitalWrite(controlPin22, LOW);
+  analogWrite(enablePin2, MsGauche);
+  analogWrite(enablePin1, MsDroite);
+}
